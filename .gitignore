@@ -1,0 +1,14 @@
+*.iml
+back/target/
+.idea/
+database/db
+!*/scripts
+
+front/app/node_modules
+front/app/package-lock.json
+front/app/out
+
+__snapshots__
+
+tempfiles
+foto

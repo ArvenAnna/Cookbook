@@ -1,0 +1,9 @@
+To start application you need:
+
+1. Clone app
+2. Build frontend application inside front/app: npm install && npm run dev
+3. Run in terminal from project's root: docker-compose build, then: docker-compose up
+4. After work make: docker-compose down
+
+
+
